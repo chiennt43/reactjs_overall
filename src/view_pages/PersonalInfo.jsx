@@ -4,6 +4,7 @@ const PersonalInfo = () => {
         Thông tin cá nhân
         <p>commit lần 1</p>
         <p>commit lần 2</p>
+        <p>commit lần 3</p>
         </h1>
 }
 
