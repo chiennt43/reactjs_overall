@@ -9,7 +9,7 @@ const Home = (props) => {
 
     const test2 = "this is test 2"
     return (
-           <div>test 1</div>
+           <div>test 1. Them demo 1</div>
     )
     
 }
