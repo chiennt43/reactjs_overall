@@ -9,7 +9,7 @@ const Home = (props) => {
 
     const test2 = "this is test 2"
     return (
-            <button onClick={()=> props.history.push('/about')}>Nav to Cá nhân</button>
+           <div>test 1</div>
     )
     
 }
